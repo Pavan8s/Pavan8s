@@ -2,7 +2,7 @@
 
 💻 Desktop Support Engineer (2+ years) → ☁️ Cloud Engineer (In Progress)
 
-🔧 Skilled in Windows, Active Directory, Networking, Asset Management (IT)
+🔧 Skilled in Windows, Active Directory, Networking, Asset Management (IT)  
 🚀 Currently learning Azure (AZ-900 & AZ-104)
 
 📫 linkedin.com/in/pavannarkhede | pavannarkhede8s@gmail.com
