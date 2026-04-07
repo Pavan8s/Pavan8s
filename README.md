@@ -5,4 +5,4 @@
 🔧 Skilled in Windows, Active Directory, Networking, Asset Management (IT)  
 🚀 Currently learning Azure (AZ-900 & AZ-104)
 
-📫 linkedin.com/in/pavannarkhede | pavannarkhede8s@gmail.com
+📫 pavannarkhede8s@gmail.com
