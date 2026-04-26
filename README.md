@@ -1,6 +1,6 @@
 👋 Hi, I'm Pavan Narkhede
 
-💻 Desktop Support Engineer (2+ years) → ☁️ Cloud Engineer (In Progress)
+💻 Desktop Support Engineer (2+ years) → ☁️ Aspiring Cloud Engineer
 
 🔧 Skilled in Windows, Active Directory, Networking, Asset Management (IT)  
 🚀 Azure Fundamentals (AZ-900) Certified    
